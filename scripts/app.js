@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     Vue.component('rapper-thumbnail', {
         props: ['rapper'],
-        template: '<div :id="rapper.name" class="rapper-thumb"><div class="pic-container"><img class="bars" src="http://rs891.pbsrc.com/albums/ac118/69design/qa%20pics/Jail-Cell-Bars-psd52403.png~c200" ><img :src="rapper.pic"></div><div class="name-container">{{ rapper.name }}</div></div>'
+        template: '<div :id="rapper.name" class="rapper-thumb"><div class="pic-container"><img class="bars" src="images/cell-bars.png-c200" ><img :src="rapper.pic"></div><div class="name-container">{{ rapper.name }}</div></div>'
     })
     var app = new Vue({
         el: '#app',
