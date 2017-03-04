@@ -1,0 +1,19 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Rap Jail Club</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.1/vue.min.js"></script>
+    <script src="scripts/app.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+</head>
+
+<body>
+    <div id="app" class="grid">
+        <rapper-thumbnail v-for="rapper in rappersList" v-bind:rapper="rapper"></rapper-thumbnail>
+    </div>
+</body>
+
+</html>
