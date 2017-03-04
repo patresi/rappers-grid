@@ -11,8 +11,7 @@ html, body {
 
 .rapper-thumb {
     float: left;
-    width: 300px;
-    height: 300px;
+    width: 25%
 }
 
 .rapper-thumb img {
