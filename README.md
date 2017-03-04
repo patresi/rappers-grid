@@ -6,6 +6,10 @@ An rappers grid pic made with [Vue.js](https://vuejs.org/) and [freewall](https:
 
 Open index.html with your browser.
 
+# Adding more rappers and contributing
+
+Feel free to send pull requests.
+
 # License
 
 [MIT](LICENSE)
