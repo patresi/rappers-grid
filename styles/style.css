@@ -5,8 +5,8 @@ html, body {
 }
 
 .grid {
-    float: left;
     width: 100%;
+    margin: auto;
 }
 
 .rapper-thumb {
