@@ -16,6 +16,10 @@ html, body {
     float: left;
 }
 
+div.pic-container {
+    position: relative;
+}
+
 .rapper-thumb img {
     width: 100%;
     display: block;
@@ -27,4 +31,15 @@ html, body {
     display: block;
     background: black;
     color: white;
+}
+
+div.isFree img.bars {
+    display: none;
+}
+
+img.bars {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
 }
