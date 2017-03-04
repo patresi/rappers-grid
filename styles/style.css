@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     width: 100%;
-    margin: 0;
+    margin: auto;
 }
 
 .grid {
@@ -11,13 +11,15 @@ html, body {
 
 .rapper-thumb {
     float: left;
-    width: 25%
 }
 
 .rapper-thumb img {
     width: 100%;
+    display: block;
+    max-width: 300px;
 }
 
 .rapper-thumb div.name-container {
     text-align: center;
+    display: block;
 }
