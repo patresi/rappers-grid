@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
             wall.reset({
                 selector: '.rapper-thumb',
                 animate: true,
-                cellW: 300,
+                cellW: 350,
                 cellH: 'auto',
                 gutterX: 20,
                 gutterY: 20,
