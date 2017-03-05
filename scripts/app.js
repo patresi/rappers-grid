@@ -72,6 +72,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "pic": "https://uproxx.files.wordpress.com/2016/05/lil-uzi-vert.jpg?quality=100&w=650"
                 },
                 {
+                    "name": "Lil Wayne",
+                    "isFree": true,
+                    "pic": "https://www.biography.com/.image/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE5NTU2MzE2MDgwOTk3ODk5/lil-wayne-369134-1-402.jpg"
+                },
+                {
                     "name": "Migos",
                     "isFree": true,
                     "pic": "http://static.stereogum.com/uploads/2015/06/Migos-640x347.jpg"
