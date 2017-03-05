@@ -13,7 +13,7 @@ Open index.html with your browser.
 
 # Adding more rappers and contributing
 
-Feel free to send pull requests.
+Feel free to send pull requests. Dont forget to compress the images.
 
 # License
 
