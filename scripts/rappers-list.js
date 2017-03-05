@@ -15,6 +15,11 @@ var rappersList = [
         "pic": "images/rappers/drake.jpg"
     },
     {
+        "name": "Eminem",
+        "isFree": true,
+        "pic": "images/rappers/eminem.jpg"
+    },
+    {
         "name": "Future",
         "isFree": true,
         "pic": "images/rappers/future.jpg"
@@ -55,6 +60,11 @@ var rappersList = [
         "pic": "images/rappers/lil-wayne.jpg"
     },
     {
+        "name": "Lil Yachty",
+        "isFree": true,
+        "pic": "images/rappers/lil-yachty.jpg"
+    },
+    {
         "name": "Migos",
         "isFree": true,
         "pic": "images/rappers/migos.jpg"
@@ -65,9 +75,19 @@ var rappersList = [
         "pic": "images/rappers/playboi-carti.jpg"
     },
     {
+        "name": "Savage 21",
+        "isFree": true,
+        "pic": "images/rappers/savage-21.jpg"
+    },
+    {
         "name": "XXXTENTACION",
         "isFree": true,
         "pic": "images/rappers/xxxtentacion.jpg"
+    },
+    {
+        "name": "Young Jeezy",
+        "isFree": true,
+        "pic": "images/rappers/young-jeezy.jpg"
     },
     {
         "name": "Young Thug",
