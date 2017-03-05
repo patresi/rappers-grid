@@ -81,7 +81,7 @@ var rappersList = [
     },
     {
         "name": "XXXTENTACION",
-        "isFree": true,
+        "isFree": false,
         "pic": "images/rappers/xxxtentacion.jpg"
     },
     {
