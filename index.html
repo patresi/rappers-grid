@@ -10,11 +10,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/freewall/1.0.5/freewall.min.js"></script>
     <script src="scripts/app.js"></script>
+    <script src="scripts/rappers-list.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 
 <body>
-    <div id="app" class="grid">
+    <div id="app" style="display:none;" class="grid">
         <rapper-thumbnail v-bind:class="{ isFree: rapper.isFree }" v-for="rapper in rappersList" v-bind:rapper="rapper"></rapper-thumbnail>
     </div>
 </body>
