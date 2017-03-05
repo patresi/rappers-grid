@@ -37,6 +37,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "pic": "http://www.rap-up.com/app/uploads/2015/10/drake-art.jpg"
                 },
                 {
+                    "name": "Future",
+                    "isFree": true,
+                    "pic": "http://www.billboard.com/files/media/future-portrait-june-2015-billboard-650.jpg"
+                },
+                {
                     "name": "Gucci Mane",
                     "isFree": true,
                     "pic": "http://www.rap-up.com/app/uploads/2016/07/gucci-ice-cream.jpg"
@@ -60,6 +65,11 @@ document.addEventListener("DOMContentLoaded", function () {
                     "name": "Kodak Black",
                     "isFree": false,
                     "pic": "https://s-media-cache-ak0.pinimg.com/originals/27/0a/03/270a039f3e086bbb348a6271b9906148.jpg"
+                },
+                {
+                    "name": "Lil Uzi Vert",
+                    "isFree": true,
+                    "pic": "https://uproxx.files.wordpress.com/2016/05/lil-uzi-vert.jpg?quality=100&w=650"
                 },
                 {
                     "name": "Migos",
