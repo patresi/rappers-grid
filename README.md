@@ -3,19 +3,19 @@
 An rappers grid pic made with [Vue.js](https://vuejs.org/) and [freewall](https://github.com/kombai/freewall).
 
 
-# Demo
+## Demo
 
 [Here](https://bertolo1988.github.io/rappers-grid/)
 
-# Running
+## Running
 
 Open index.html with your browser.
 
-# Adding more rappers and contributing
+## Adding more rappers and contributing
 
 Feel free to send pull requests. Dont forget to compress the images.
 
-# License
+## License
 
 [MIT](LICENSE)
 
