@@ -15,6 +15,8 @@ Open index.html with your browser.
 
 Feel free to send pull requests. Dont forget to compress the images.
 
+I usually use [optimizilla.com](http://optimizilla.com/) with 70 quality.
+
 ## License
 
 [MIT](LICENSE)

@@ -20,6 +20,11 @@ var rappersList = [
         "pic": "images/rappers/eminem.jpg"
     },
     {
+        "name": "Freddie Gibbs",
+        "isFree": true,
+        "pic": "images/rappers/freddie-gibbs.jpg"
+    },
+    {
         "name": "Future",
         "isFree": true,
         "pic": "images/rappers/future.jpg"
@@ -83,6 +88,11 @@ var rappersList = [
         "name": "XXXTENTACION",
         "isFree": false,
         "pic": "images/rappers/xxxtentacion.jpg"
+    },
+    {
+        "name": "YG",
+        "isFree": true,
+        "pic": "images/rappers/yg.jpg"
     },
     {
         "name": "Young Jeezy",
