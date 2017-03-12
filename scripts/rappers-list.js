@@ -80,7 +80,7 @@ var rappersList = [
         "pic": "images/rappers/playboi-carti.jpg"
     },
     {
-        "name": "Savage 21",
+        "name": "21 Savage",
         "isFree": true,
         "pic": "images/rappers/savage-21.jpg"
     },
